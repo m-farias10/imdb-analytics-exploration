@@ -1,1 +1,1 @@
-# imdb-anaylitcs-exploration
+# imdb-analyitcs-exploration
